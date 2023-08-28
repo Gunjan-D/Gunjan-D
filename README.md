@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from India
  </h3>
 
-<img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/8-26-2015/ux7B0x.gif">
+ ![R](https://github.com/Gunjan-D/Gunjan-D/assets/140314580/4e6930bb-96ec-47f1-a9d3-17208d97d70f)
+ 
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan-d&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan-d" /> </p>
 
