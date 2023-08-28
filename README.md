@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gunjan Deshpande</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Welcome! Gunjan Deshpande here 💗 </h1>
+<h3 align="center">A passionate frontend developer from India
+ </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/8-26-2015/ux7B0x.gif">
 
@@ -13,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gunjan-D/Gunjan-D](https://github.com/Gunjan-D/Gunjan-D)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/gunjan-deshpande-04a515215/](https://www.linkedin.com/in/gunjan-deshpande-04a515215/)
+- 📝 I try to write on [https://www.linkedin.com/in/gunjan-deshpande-04a515215/](https://www.linkedin.com/in/gunjan-deshpande-04a515215/)
 
 - 📫 How to reach me **gunjandeshpande490@gmail.com**
 
