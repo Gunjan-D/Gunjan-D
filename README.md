@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **gunjandeshpande490@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QqcCXsSVh4tu_9s1jxCh104sS8ovcfS7/view?usp=sharing](https://drive.google.com/file/d/1QqcCXsSVh4tu_9s1jxCh104sS8ovcfS7/view?usp=sharing)
 
 -![tumblr_762679de9ad64f02b3b87612615ea286_73cd18b8_500](https://github.com/Gunjan-D/Gunjan-D/assets/140314580/a160c9e9-d952-4c86-9f07-38be5309104a)
 
