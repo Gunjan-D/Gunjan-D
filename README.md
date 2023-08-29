@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gunjandeshpande490@gmail.com**
 
-- <a href="https://www.buymeacoffee.com/Gunjan-D" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- <a href="https://www.buymeacoffee.com/gunjiD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 -![tumblr_762679de9ad64f02b3b87612615ea286_73cd18b8_500](https://github.com/Gunjan-D/Gunjan-D/assets/140314580/a160c9e9-d952-4c86-9f07-38be5309104a)
