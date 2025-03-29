@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Gunjan Deshpande here </h1>
+<h1 align="center">Hi, Gunjan Deshpande here! </h1>
 <h3 align="center">A passionate data science grad student
  </h3>
 
