@@ -1,15 +1,15 @@
-<h1 align="center">Welcome! Gunjan Deshpande here 💗 </h1>
-<h3 align="center">A passionate frontend developer from India
+<h1 align="center">Hi! Gunjan Deshpande here </h1>
+<h3 align="center">A passionate data science grad student
  </h3>
 
  ![R](https://github.com/Gunjan-D/Gunjan-D/assets/140314580/4e6930bb-96ec-47f1-a9d3-17208d97d70f)
 
 
-- 🔭 I’m currently working on **e-Ephrin database.**
+- 🔭 I’m currently pursuing **MS in Data Science**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I'm passionate about **Coding, Data Analysis and Problem-Solving**
 
-- 🤝 I’m looking for help with **Python.**
+- 🤝 I’m looking for help with **Projects and Leetcode.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gunjan-D/Gunjan-D](https://github.com/Gunjan-D/Gunjan-D)
 
