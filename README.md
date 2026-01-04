@@ -5,7 +5,7 @@
  ![R](https://github.com/Gunjan-D/Gunjan-D/assets/140314580/4e6930bb-96ec-47f1-a9d3-17208d97d70f)
 
 
-- 🔭 I’m currently pursuing **MS in Data Science**
+- 🔭 Pursued **MS in Data Science** from Stony Brook University
 
 - 🌱 I'm passionate about **Coding, Data Analysis and Problem-Solving**
 
