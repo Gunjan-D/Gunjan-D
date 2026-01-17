@@ -16,6 +16,8 @@
 - 📝 I try to write on [https://www.linkedin.com/in/gunjan-deshpande-04a515215/](https://www.linkedin.com/in/gunjan-deshpande-04a515215/)
 
 - 📫 How to reach me **gunjandeshpande490@gmail.com**
+  
+- NOTE: The code and files in this repository are maintained solely for my PERSONAL reference and learning. They are not intended or used for any form of plagiarism, academic misconduct, or fraudulent activity.
 
 - <a href="https://www.buymeacoffee.com/gunjiD" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
